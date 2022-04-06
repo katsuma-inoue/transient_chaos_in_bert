@@ -1,0 +1,9 @@
+*.pyc
+data
+result
+.vscode
+.pytest_cache
+*.ipynb
+.models
+.ipynb_checkpoints
+!notebook/*.ipynb

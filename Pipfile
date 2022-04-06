@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow-gpu = "~=2.1.0"
+tensorflow-hub = "*"
+torch = "~=1.5.0"
+bert-for-tf2 = "~=0.14.6"
+transformers = "~=2.10.0"
+gensim = "*"
+animatplot = "*"
+zarr = "*"
+pathos = "*"
+parse = "*"
+spacy = "*"
+textdistance = "*"
+
+[requires]
+python_version = "3.7"
