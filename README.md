@@ -95,9 +95,9 @@ net_record = net.step(step_num=max_step, save_state=True, callback_gpu=callback_
 
 Sample notebooks are available in the following environments.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katsuma-inoue/transient_chaos_in_bert/blob/main/notebook/sample_trajectory.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katsuma-inoue/transient_chaos_in_bert/blob/master/notebook/sample_trajectory.ipynb)
 
-[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/katsuma-inoue/transient_chaos_in_bert/blob/main/notebook/sample_trajectory.ipynb)
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/katsuma-inoue/transient_chaos_in_bert/blob/master/notebook/sample_trajectory.ipynb)
 
 ### solve STS-B task with several variations of ALBERT encoder layers
 
